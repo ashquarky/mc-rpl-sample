@@ -1,0 +1,9 @@
+.vscode
+.idea
+
+cmake-build-*
+build_dir
+
+*.elf
+*.rpl
+*.wps
